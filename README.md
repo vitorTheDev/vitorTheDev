@@ -13,7 +13,7 @@ My name is Vítor and I've been working as a professional developer for over 8 y
 but I have switched to fullstack development with typescript. Nowadays I have 5 years experience with Angular
 and Node.js, with also wide experience on SQL/NoSQL databases and cloud services.
 
-My greatest point is versatility: I have deep knowledge of front-end and back-end technologies, being abe to work
+My strongest point is versatility: I have deep knowledge of front-end and back-end technologies, being abe to work
 at any part of any project with ease.
 
 Currently I'm employed but might be in search of a job in the near future.
