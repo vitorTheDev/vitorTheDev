@@ -20,7 +20,19 @@ Currently I'm employed but might be in search of a job in the near future.
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,angular,vue,flutter,tailwind,graphql,postgresql,mongodb,firebase,supabase" alt="languages and frameworks" />
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,c,cpp,arduino" alt="languages and frameworks" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,rest,express,graphql,apollo,postgresql,mysql,mongodb,firebase,supabase" alt="languages and frameworks" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=html,css,angular,vue,react,flutter,tailwind,sass," alt="languages and frameworks" />
   </a>
 </p>
 
