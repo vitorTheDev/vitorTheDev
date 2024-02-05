@@ -16,7 +16,7 @@ and Node.js, with also wide experience on SQL/NoSQL databases and cloud services
 My strongest point is versatility: I have deep knowledge of front-end and back-end technologies, being abe to work
 at any part of any project with ease.
 
-Currently I'm employed but might be in search of a job in the near future.
+Currently I'm looking for freelance job opportunities.
 
 <p align="center">
   <a href="#">
