@@ -1,11 +1,11 @@
 ### Hello, I'm Vítor
 
 <p>
-  <a href="https://www.linkedin.com/in/vitorThedev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
   <a href="https://vitorthedev.netlify.app">
     <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&amp;logo=ko-fi&amp;logoColor=white" alt="portfolio" />
+  </a>  
+  <a href="https://www.linkedin.com/in/vitorThedev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href=mailto:“netd777@gmail.com”>
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="linkedin" />
